@@ -2,6 +2,8 @@
 
 # Contributed by Bryan Halfpap <Bryanhalf@gmail.com>, Copyright 2015
 
+# Lines 28 and 59 edited for use with ZigBee Greenpower - FreqyXin 2020 
+
 import binascii
 import sys
 import argparse
